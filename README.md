@@ -14,4 +14,4 @@ Uma empresa expandiu rapidamente suas operações, tendo realizado contrataçõe
 - Power BI para a criação do dashboard.
 
 
-Clique aqui para voltar para o meu [portfólio](giulianaves/portfolio).
+Clique aqui para voltar para o meu [portfólio](https://github.com/giulianaves/portfolio).
