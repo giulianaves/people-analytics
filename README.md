@@ -18,6 +18,7 @@ Uma empresa expandiu rapidamente suas operações, tendo realizado contrataçõe
 Em uma escala de 1 a 5, o índice médio de satisfação dos funcionários é de:
 - Ativos: 3,87
 - Desligados: 3,54
+
 ![image](https://github.com/user-attachments/assets/814a91fd-93e4-4bb4-8b89-54ebbf76fe00)
 
 2. Motivo de desligamentos:
