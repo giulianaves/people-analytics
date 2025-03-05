@@ -54,4 +54,4 @@ O departamento administrativo apresentou o menor índice médio de satisfação 
 - Aumento da satisfação geral dos funcionários e retenção de talentos.
 - Melhoria da cultura e clima organizacional.
 
-Obrigada por ler. Clique aqui para voltar para o meu [portfólio](https://github.com/giulianaves/portfolio) ou me adicione no [LinkedIn](https://linkedin.com/in/giulia-naves).
+Obrigada por ler até aqui! Volte para o meu [portfólio](https://github.com/giulianaves/portfolio) ou me adicione no [LinkedIn](https://linkedin.com/in/giulia-naves).
