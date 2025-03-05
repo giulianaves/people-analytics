@@ -1,7 +1,6 @@
 # Projeto de People Analytics
 
-# Dashboard
-[Acesse aqui](https://app.powerbi.com/view?r=eyJrIjoiZjY1ZmIxMDUtZDU4NC00YTY3LTlmZmUtOWE5NGJiZTk2M2QxIiwidCI6ImFmOWUwMmYwLWYxYjAtNGM0MC1hNWU3LTIxNjQxZTVlNDBkYiJ9)
+# [Acesse aqui o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjY1ZmIxMDUtZDU4NC00YTY3LTlmZmUtOWE5NGJiZTk2M2QxIiwidCI6ImFmOWUwMmYwLWYxYjAtNGM0MC1hNWU3LTIxNjQxZTVlNDBkYiJ9)
 
 ## ℹ️ Contextualização
 Uma empresa expandiu rapidamente suas operações, tendo realizado contratações em massa nos últimos anos. Porém, a empresa está tendo dificuldades na retenção de talentos, com uma taxa de turnover acima da média do mercado, que acarreta em altos custos com treinamentos, demissões e novas contratações. Após análise e construção de um dashboard interativo, pude identificar pontos críticos e sugerir mudanças estratégicas para obter resultados concretos.
