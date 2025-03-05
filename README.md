@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5f5ed45b-ba79-4781-a57a-adeec1237cf8)# Projeto de People Analytics
+# Projeto de People Analytics
 
 # Dashboard
 [Acesse aqui](https://app.powerbi.com/view?r=eyJrIjoiZjY1ZmIxMDUtZDU4NC00YTY3LTlmZmUtOWE5NGJiZTk2M2QxIiwidCI6ImFmOWUwMmYwLWYxYjAtNGM0MC1hNWU3LTIxNjQxZTVlNDBkYiJ9)
@@ -19,6 +19,7 @@ Uma empresa expandiu rapidamente suas operações, tendo realizado contrataçõe
 Em uma escala de 1 a 5, o índice médio de satisfação dos funcionários é de:
 - Ativos: 3,87
 - Desligados: 3,54
+![image](https://github.com/user-attachments/assets/814a91fd-93e4-4bb4-8b89-54ebbf76fe00)
 
 2. Motivo de desligamentos:
 A maior parte dos desligamentos ocorreu por pedido de demissão (79 de 103).
